@@ -1,7 +1,11 @@
 <h2 align="center">👋 Hello there, I’m Antonio</h3>
 <p align="center">
-  <a href="https://antonio-marasescu.github.io/portfolio/" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/antonio-marasescu-duran-953aa2177/" target="_blank">Linkedin</a>
+  <a href="https://antonio-marasescu.github.io/portfolio/" target="_blank">
+    Portfolio
+  </a> •
+  <a href="https://www.linkedin.com/in/antonio-marasescu-duran-953aa2177/" target="_blank">
+    Linkedin
+  </a>
 </p>
 
 
